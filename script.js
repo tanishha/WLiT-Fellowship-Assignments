@@ -32,3 +32,14 @@ result()
 
 
 //Third
+var list = []
+
+function promptFunction() {
+    var t = prompt("Please enter Title");
+    var d = prompt("Please enter Description ")
+    list.push({
+        title: t,
+        description: d
+    })
+    console.log(list)
+}
