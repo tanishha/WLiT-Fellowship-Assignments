@@ -1,4 +1,3 @@
-# WLiT-Intro-Session
->WLiT Fellowship 21/22
+# WLiT-Assignments
 
-`Assignment for Introduction to JavaScript (Day 02)`
+`Assignments of WLiT Fellowship 21/22`
