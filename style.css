@@ -1,0 +1,23 @@
+#animate {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background-color: red;
+}
+div#myData {
+  margin-top: 15px;
+  list-style-type: none;
+}
+
+dd {
+  margin-bottom: 12px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+dt {
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+}
